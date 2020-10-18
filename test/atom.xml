@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[mweb]]></title>
+  <link href="http://web.whitewater.wang/atom.xml" rel="self"/>
+  <link href="http://web.whitewater.wang/"/>
+  <updated>2020-10-18T19:30:12+08:00</updated>
+  <id>http://web.whitewater.wang/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[what happen]]></title>
+    <link href="http://web.whitewater.wang/16030205344111.html"/>
+    <updated>2020-10-18T19:28:54+08:00</updated>
+    <id>http://web.whitewater.wang/16030205344111.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://web.whitewater.wang/16030190035253.html"/>
+    <updated>2020-10-18T19:03:23+08:00</updated>
+    <id>http://web.whitewater.wang/16030190035253.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+</feed>
